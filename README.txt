@@ -1,6 +1,8 @@
 ----------THIS IS MY TEST FOR INTERVIW TEST--------------------
 
-HERE I WORK FOR 2 HOUR FOR THIS TEST I CANT TAKE MORE TIME DUE TO SOME TIME RESPECT AND HERE I TRY TO COMPLETE WHAT CAN I DO AND I STUCK ON FRONT END MENU BAR.FOR UNDARSATDNIG OF SECOND PART OF QUESTIONS IT IS TAKING TIME AND I DIDNT GET IT BUT I WILL TRY TO SOLVE IN FUTURE.
+Here  as possible i do to create as per task and Navigator menu is not work from my side i try best to solve that problem and i try to find solution but i could not so and all things created what can i do.
+
+About data base explian:--> in menu table i add menu directly their with their url values but for navigation menu i created parent and child coloum to give them location bases on them but i not able to update that values from drag and drop system. 
 
 NOTICE:I COULD NOT FIND ANY FORNT END LEFT SIDE MENU BAR FOR THAT I SPEND MORE THAN USAL TIME.
 
